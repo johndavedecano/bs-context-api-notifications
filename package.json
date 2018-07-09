@@ -1,0 +1,31 @@
+{
+  "name": "bs-context-api-notifications",
+  "version": "1.0.0",
+  "description": "A notification system using context API for bs notifier module.",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Dave Decano <johndavedecano@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "notification",
+    "bs-notification",
+    "bootstrap",
+    "reactjs"
+  ],
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.9.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "react": "^16.0.0",
+    "react-bs-notifier": "^5.0.0",
+    "react-dom": "^16.4.1",
+    "uuid": "^3.3.2"
+  }
+}
