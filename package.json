@@ -10,6 +10,10 @@
   },
   "author": "John Dave Decano <johndavedecano@gmail.com>",
   "license": "MIT",
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/johndavedecano/bs-context-api-notifications.git"
+  },
   "keywords": [
     "notification",
     "bs-notification",
